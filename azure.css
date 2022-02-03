@@ -39,7 +39,7 @@ header > .header-left, .header-right{
 
 
 .coverphoto{
-	height: 75vh;
+	height: 2in;
 	width: 16in;
 	background: cyan;
 	display: flex;
